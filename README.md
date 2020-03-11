@@ -8,5 +8,5 @@
 	<li>setelah itu diekstrak (kalau belum di ekstrak)</li>
 	<li>dan terakhir kalian bisa run porject ini dengan cara masuk ke directory project taskmanager ini , </li>
 	<li>lalu shift + klik kanan lalu open command prompt here , dan ketikan "php artisan serve"</li>
-	<li>setelah itu tinggal dibuka di browser kalian (eh jangan lupa hidupkan mysqli di xampp kalian ya.. hehe)</li>
+	<li>setelah itu tinggal dibuka di browser kalian (eh jangan lupa hidupkan mysqli di xampp kalian ya..)</li>
 </ul>
