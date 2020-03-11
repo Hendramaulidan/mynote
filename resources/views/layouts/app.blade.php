@@ -89,7 +89,7 @@
             @yield('content')
         </main>
     </div>
-    
+    <hr>
     
 
 </body>
