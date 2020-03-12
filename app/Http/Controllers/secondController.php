@@ -29,6 +29,7 @@ class secondController extends Controller
     }
     public function calendar()
     {
+    //masih ada error , list task tidak keluar di bagian kalender , hanya bisa jika where nya dihapus jadi harus di get semua
            $calendar =  process::all()->where('user_id',Auth::user()->id);
            return view('fullcalendar.calendar',compact('calendar'));
     }
